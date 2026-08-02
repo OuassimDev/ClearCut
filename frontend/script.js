@@ -1,4 +1,4 @@
-const RENDER_BACKEND_URL = 'http://127.0.0.1:5000';
+const RENDER_BACKEND_URL = 'https://clearcut-6y54.onrender.com';
 
 const uploadSection = document.getElementById('uploadSection');
 const progressSection = document.getElementById('progressSection');
